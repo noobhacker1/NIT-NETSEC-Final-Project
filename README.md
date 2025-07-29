@@ -1,5 +1,7 @@
 ﻿*note: sorry for not using git from the beginning*
 
+![[Assets/screenshot.png]]
+
 ## Todo
 
 - [x] subnetting
