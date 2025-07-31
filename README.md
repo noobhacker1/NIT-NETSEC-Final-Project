@@ -13,6 +13,8 @@
 - [x] Implement NTP for Network Devices
 - [x] Implement SYSLOG For Network Devices
 - [x] Implement AAA for Network Devices
+- [x] Implement ACL the Blue Network
+- [x] Implement ZPF for the Green and Red Networks
 - [x] Implement Layer 2 Security for The Yellow Network (port security)
 - [x] Implement VPN Connection From R2 -> R8
 
